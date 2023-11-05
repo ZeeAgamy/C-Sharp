@@ -1,5 +1,5 @@
 ﻿using System;
-
+//hi this is Agamy from Remote.
 namespace GuessTheNumber
 {
     class Guess
